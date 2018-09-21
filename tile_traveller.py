@@ -1,3 +1,5 @@
+#https://github.com/Znorlaxing2Day/Snorriforri-tari
+
 #Algorithm for solving the game:
 #Við búum til breytur sem halda utan um texta um allar áttir til að hreyfast í.
 #Svo þarf að búa til allt mögulegt input fyrir notandann til að ferðast sem má vera stór og lítill stafur.
